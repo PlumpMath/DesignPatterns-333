@@ -1,0 +1,6 @@
+G:\GitHub\DesignPattern Tutorials\Decorator DesignPAttern\Decorator DesignPAttern\bin\Debug\Decorator DesignPAttern.exe.config
+G:\GitHub\DesignPattern Tutorials\Decorator DesignPAttern\Decorator DesignPAttern\obj\Debug\Decorator DesignPAttern.csprojResolveAssemblyReference.cache
+G:\GitHub\DesignPattern Tutorials\Decorator DesignPAttern\Decorator DesignPAttern\bin\Debug\Decorator DesignPAttern.exe
+G:\GitHub\DesignPattern Tutorials\Decorator DesignPAttern\Decorator DesignPAttern\bin\Debug\Decorator DesignPAttern.pdb
+G:\GitHub\DesignPattern Tutorials\Decorator DesignPAttern\Decorator DesignPAttern\obj\Debug\Decorator DesignPAttern.exe
+G:\GitHub\DesignPattern Tutorials\Decorator DesignPAttern\Decorator DesignPAttern\obj\Debug\Decorator DesignPAttern.pdb

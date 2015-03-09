@@ -1,0 +1,6 @@
+G:\GitHub\DesignPattern Tutorials\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+G:\GitHub\DesignPattern Tutorials\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache
+G:\GitHub\DesignPattern Tutorials\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe
+G:\GitHub\DesignPattern Tutorials\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
+G:\GitHub\DesignPattern Tutorials\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+G:\GitHub\DesignPattern Tutorials\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb
