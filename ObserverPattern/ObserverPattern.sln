@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{685E8556-4171-4C0D-96A6-DFC862208801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern.Weather", "ObserverPattern.Weather\ObserverPattern.Weather.csproj", "{F4A8AFC8-7CED-4DD0-AEFC-1E2CEB3CF7DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{685E8556-4171-4C0D-96A6-DFC862208801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685E8556-4171-4C0D-96A6-DFC862208801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685E8556-4171-4C0D-96A6-DFC862208801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685E8556-4171-4C0D-96A6-DFC862208801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4A8AFC8-7CED-4DD0-AEFC-1E2CEB3CF7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A8AFC8-7CED-4DD0-AEFC-1E2CEB3CF7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A8AFC8-7CED-4DD0-AEFC-1E2CEB3CF7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A8AFC8-7CED-4DD0-AEFC-1E2CEB3CF7DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
