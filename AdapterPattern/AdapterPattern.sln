@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "AdapterPattern\AdapterPattern.csproj", "{889305F9-AEAC-4B96-A454-2741DFFD190A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern.MediaPlayer", "AdapterPattern.MediaPlayer\AdapterPattern.MediaPlayer.csproj", "{03A5C383-DFA9-4E90-9030-BA8E01923261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{889305F9-AEAC-4B96-A454-2741DFFD190A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889305F9-AEAC-4B96-A454-2741DFFD190A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889305F9-AEAC-4B96-A454-2741DFFD190A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889305F9-AEAC-4B96-A454-2741DFFD190A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A5C383-DFA9-4E90-9030-BA8E01923261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A5C383-DFA9-4E90-9030-BA8E01923261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A5C383-DFA9-4E90-9030-BA8E01923261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A5C383-DFA9-4E90-9030-BA8E01923261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
